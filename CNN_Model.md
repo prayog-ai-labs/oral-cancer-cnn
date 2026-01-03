@@ -24,4 +24,3 @@ flowchart TD
     P --> Q["Dense 128 + ReLU"]
     Q --> R["Dropout 0.3"]
     R --> S["Softmax Output (Normal / OSCC)"]
-```markdown
