@@ -19,6 +19,14 @@ All experiments were conducted in **Google Colab** with GPU acceleration.
 
 ## 2. Dataset Description
 
+## Dataset Citation
+
+All experiments in this study were conducted using the following dataset:
+
+Rahman, Tabassum Yesmin (2019). *A histopathological image repository of normal epithelium of Oral Cavity and Oral Squamous Cell Carcinoma*.  
+Mendeley Data, Version 1.  
+DOI: https://doi.org/10.17632/ftmp4cvtmb.1
+
 - **Dataset Name:** Oral Cancer Histopathological Images  
 - **Magnification:** 100×  
 - **Classes:**
