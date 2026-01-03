@@ -129,13 +129,13 @@ This study highlights the **importance of transfer learning for medical image cl
 
 ## 7. Repository Structure
 
-├── Oral_Cancer_EDA.ipynb
-├── Oral_Cancer_Classification_using_Custom_CNN.ipynb
-├── Oral_Cancer_Classification_using_VGG16.ipynb
-├── Oral_Cancer_Classification_using_ResNet50.ipynb
-├── Oral_Cancer_InceptionResNetV2.ipynb
-├── MODEL_COMPARISON_REPORT.md
-└── README.md
+- ├── Oral_Cancer_EDA.ipynb
+- ├── Oral_Cancer_Classification_using_Custom_CNN.ipynb
+- ├── Oral_Cancer_Classification_using_VGG16.ipynb
+- ├── Oral_Cancer_Classification_using_ResNet50.ipynb
+- ├── Oral_Cancer_InceptionResNetV2.ipynb
+- ├── MODEL_COMPARISON_REPORT.md
+- └── README.md
 
 ---
 
